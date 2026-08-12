@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">ILYAS</h1>
 
 <h3 align="center">Programming • Networking • Security</h3>
@@ -14,4 +14,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,github,vscode,windows" />
 </p>
-```
+
