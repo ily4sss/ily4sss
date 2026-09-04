@@ -1,4 +1,3 @@
-
 <h1 align="center">ILYAS</h1>
 
 <h3 align="center">
@@ -24,9 +23,6 @@
 
 <br>
 
-<!-- ========================= -->
-<!--      LANGUAGES/TOOLS      -->
-<!-- ========================= -->
 <p align="center">
   <img src="./assets/Ikuyaezgif.gif" width="100%" alt="Banner GIF" />
 </p>
@@ -41,10 +37,6 @@
 </p>
 
 <br>
-
-<!-- ========================= -->
-<!--          CONTACT          -->
-<!-- ========================= -->
 
 <p align="center">
   <a href="https://discord.com/users/1165422648642240518">
