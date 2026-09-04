@@ -1,13 +1,35 @@
-
-<h1 align="center">ILYAS</h1>
-
-<h3 align="center">Programming • Networking • Security</h3>
+<!-- ========================= -->
+<!--        TOP BANNER         -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=01001001+01101100+01111001+01100001+01110011;Trying+to+do+Something+useful;Idk+Wtf+I+Am+doing;Obsessed+with+Networks+and+Security;" />
+  <img src="YOUR_GIF_HERE" width="100%" alt="Banner GIF" />
 </p>
 
 <br>
+
+<!-- ========================= -->
+<!--           TITLE           -->
+<!-- ========================= -->
+
+<h1 align="center">ILYAS</h1>
+
+<h3 align="center">
+  Programming • Networking • Security
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=01001001+01101100+01111001+01100001+01110011;Trying+to+do+Something+useful;Idk+Wtf+I+Am+doing;Obsessed+with+Networks+and+Security;"
+    alt="Typing SVG"
+  />
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--         TERMINAL          -->
+<!-- ========================= -->
 
 <p align="center">
   <img
@@ -17,13 +39,32 @@
   />
 </p>
 
+<br>
+
+<!-- ========================= -->
+<!--      LANGUAGES/TOOLS      -->
+<!-- ========================= -->
+
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,git" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,git"
+    alt="Languages and Tools"
+  />
 </p>
-<p align="right">
+
+<br>
+
+<!-- ========================= -->
+<!--          CONTACT          -->
+<!-- ========================= -->
+
+<p align="center">
   <a href="https://discord.com/users/1165422648642240518">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
   </a>
 </p>
