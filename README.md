@@ -2,10 +2,6 @@
 <!--        TOP BANNER         -->
 <!-- ========================= -->
 
-<p align="center">
-  <img src="./assets/Ikuyaezgif.gif" width="100%" alt="Banner GIF" />
-</p>
-
 <br>
 
 <!-- ========================= -->
@@ -44,7 +40,10 @@
 <!-- ========================= -->
 <!--      LANGUAGES/TOOLS      -->
 <!-- ========================= -->
-
+<p align="center">
+  <img src="./assets/Ikuyaezgif.gif" width="100%" alt="Banner GIF" />
+</p>
+<br>
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
