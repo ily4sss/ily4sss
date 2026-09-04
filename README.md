@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="YOUR_GIF_HERE" width="100%" alt="Banner GIF" />
+  <img src="./assets/Ikuya-ezgif.gif" width="100%" alt="Banner GIF" />
 </p>
 
 <br>
