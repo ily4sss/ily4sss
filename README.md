@@ -9,6 +9,14 @@
 
 <br>
 
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=ily4sss&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199271618%3Fu%3D31ba179b2c3908159e1b55482214700c18018909%26v%3D4&style=terminal"
+    alt="ily4sss terminal"
+    width="100%"
+  />
+</p>
+
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
