@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,git"
+    src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,git,python"
     alt="Languages and Tools"
   />
 </p>
